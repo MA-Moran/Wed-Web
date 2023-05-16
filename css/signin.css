@@ -1,0 +1,45 @@
+
+form{
+    font-family:"Harrington";
+    font-size: 120%;
+}
+h1{
+    font-size: 150%;
+}
+a{
+    font-size: 120%;
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 30px;
+    margin: auto;
+    font-family: "Harrington";
+    font-size: 150%;
+}
+.form-signin .checkbox {
+    font-weight: 400;
+    font-family:"Harrington";
+}
+.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 100%;
+    font-family: "Harrington";
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.form-signin input[type="code"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+
+
+}
+button{
+    font-family: "Harrington";
+    font-size: large;
+}
